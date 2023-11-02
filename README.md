@@ -35,10 +35,10 @@
 
 <hr>
 <p align="center">
-<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
+<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats / Estadísticas de Github</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
 <div>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedromolina351&show_icons=true&locale=en&layout=compact&theme=dark" alt="akash-chowrasia" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedromolina351&show_icons=true&locale=en&theme=dark" alt="akash-chowrasia" width="410" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedromolina351&show_icons=true&locale=en&layout=compact&theme=dark" alt="Pedro-Molina" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedromolina351&show_icons=true&locale=en&theme=dark" alt="Pedro-Molina" width="410" /></p>
 </div>
 <hr>
 
