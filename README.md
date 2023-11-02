@@ -33,12 +33,12 @@
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
-<table align="center">
+<table align="left">
   <tr border="none">
-    <td width="50%" align="left" border="none">
+    <td width="50%" align="left" style="border: none;">
       <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=pedromolina351&show_icons=true&theme=dark&locale=es&layout=compact" />
     </td>
-    <td width="50%" align="left" border="none">
+    <td width="50%" align="left" style="border: none;">
       <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=pedromolina351&theme=dark&show_icons=true&count_private=true" />
     </td>
   </tr>
