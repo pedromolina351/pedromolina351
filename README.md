@@ -30,16 +30,15 @@
   </a>
 </p>
 
-<!--- stats & Trophy (start) -->
+
+<!--- stats (start) -->
+
+<hr>
 <p align="center">
-  <!--- stats (start) -->
-<table align="left">
-  <tr border="none">
-    <td width="50%" align="left" style="border: none;">
-      <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=pedromolina351&show_icons=true&theme=dark&locale=es&layout=compact" />
-    </td>
-    <td width="50%" align="left" style="border: none;">
-      <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=pedromolina351&theme=dark&show_icons=true&count_private=true" />
-    </td>
-  </tr>
-</table>
+<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
+<div>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedromolina351&show_icons=true&locale=en&layout=compact&theme=dark" alt="akash-chowrasia" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedromolina351&show_icons=true&locale=en&theme=dark" alt="akash-chowrasia" width="410" /></p>
+</div>
+<hr>
+
