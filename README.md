@@ -11,7 +11,7 @@
     <br>
     <p>
         <strong>
-            Currently working as a FullStack Jr. Developer.<br>
+            Currently working as a Jr. FullStack Developer.<br>
             Experience working with Angular, NodeJS, NestJS and PHP, Good in Web Apps Development, SQL Server, Object-Oriented Programming, and software problems solve skills.<br><br>
         </strong>
         <strong>
